@@ -1,4 +1,4 @@
-This here is a compilation of (some of my) notes I keep while I study to advance my skills.
+This here is a compilation of (some of my) notes that I took, while I study to advance my skills.
 
 Please feel free to have a look! (This is a Notion link)
 
