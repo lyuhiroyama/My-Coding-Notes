@@ -1,9 +1,7 @@
-<!--
-This is a repository to showcase what I have been doing on days without GitHub commits!
+This here is a compilation of (some of my) notes I keep while I study to advance my skills.
 
-Here is a public Notion link with some of my study notes compiled into one: 
--->
-
-こちらは、私の学習ノートをまとめた公開Notionリンクです。ぜひお気軽にご覧ください！
+Please feel free to have a look! (This is a Notion link)
 
 https://cuddly-sunflower-42d.notion.site/My-programming-notes-116ec724414c4734a98f498a788a3c79
+
+<!-- こちらは、私の学習ノートをまとめた公開Notionリンクです。ぜひお気軽にご覧ください！-->
